@@ -1,5 +1,5 @@
 # [monkeypython-japan のプロファイル](https://github.com/monkeypython-japan)
----
+
 
 
 ## 略歴
@@ -36,9 +36,12 @@
 ## 認定資格
 
 - AWS System Architecture Associate 
-  - Validation Number TDS97KVC3FRQ1B9T  
+
   ![](aws-certified-logo_color-horz_180x30.png)
   
   ![](solutions-architect-associate-tag_180x16.png)
+  
+  - Validation Number TDS97KVC3FRQ1B9T  
+
 - Apple Certified System Administrator 10.4 (Tiger)
 
