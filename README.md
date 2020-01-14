@@ -32,6 +32,7 @@
   - Validation Number TDS97KVC3FRQ1B9T
   
   ![](aws-certified-logo_color-horz_180x30.png)
+  
   ![](solutions-architect-associate-tag_180x16.png)
 - Apple Certified System Administrator 10.4 (Tiger)
 
