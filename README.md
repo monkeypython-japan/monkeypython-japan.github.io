@@ -13,6 +13,7 @@
 
 ## 最近の開発
 
+- [ここ](https://github.com/monkeypython-japan/scrape_service) にスキルショーケースを置きました。
 - サポートコニュニティの SEO ツール開発 (Pyhton / Pandas)
 - コミュニティ管理ツールの要注意ワードの効果分析ツール開発 (Python / Pandas)
 - 製品のサポート記事ページのスクレイピングツール開発 (Python / lxml.html)
